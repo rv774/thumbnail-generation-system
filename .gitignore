@@ -43,3 +43,11 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# Next.js / Vercel
+.vercel/
+*.tsbuildinfo
+
+# Backend specific
+temp_test/
+build_errors.txt
